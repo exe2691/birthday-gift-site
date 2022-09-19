@@ -81,10 +81,7 @@ h1, h2, h4 {
     border: 8px solid #efb0c9;
     border-radius: 2%;
 }
-.regalito:hover {
-    background-image: url(./erecto.gif);
-    background-size: cover;
-}
+
 
 #otro-regalo:hover {
     background-image: url(./pvta.gif);
